@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "averageby for loop in python", "averageby for loop in python\averageby for loop in python.pyproj", "{9F7FF5FE-9887-48E1-9E0B-041AF94DB77E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7FF5FE-9887-48E1-9E0B-041AF94DB77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7FF5FE-9887-48E1-9E0B-041AF94DB77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F3D6F1-7611-448C-A7B6-A4CAA52231B6}
+	EndGlobalSection
+EndGlobal

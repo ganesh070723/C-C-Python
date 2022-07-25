@@ -1,0 +1,5 @@
+﻿  atm app.cpp
+C:\Users\ganes\source\repos\atm app\atm app\atm app.cpp(15,15): error C2556: 'int observation(void)': overloaded function differs only by return type from 'void observation(void)'
+C:\Users\ganes\source\repos\atm app\atm app\atm app.cpp(6): message : see declaration of 'observation'
+C:\Users\ganes\source\repos\atm app\atm app\atm app.cpp(15,2): error C2371: 'observation': redefinition; different basic types
+C:\Users\ganes\source\repos\atm app\atm app\atm app.cpp(6): message : see declaration of 'observation'

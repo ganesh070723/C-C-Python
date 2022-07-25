@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "auction program", "auction program\auction program.pyproj", "{B056F412-8460-4AAF-BD4C-1C7DBE58333E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B056F412-8460-4AAF-BD4C-1C7DBE58333E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B056F412-8460-4AAF-BD4C-1C7DBE58333E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC6D6750-7CC7-4514-97BA-8906237E5E5F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+﻿'ConsoleApplication1- ATM.exe' (Win32): Loaded 'C:\Users\ganes\source\repos\ConsoleApplication1- ATM\Debug\ConsoleApplication1- ATM.exe'. Symbols loaded.
+'ConsoleApplication1- ATM.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'ConsoleApplication1- ATM.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'ConsoleApplication1- ATM.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'ConsoleApplication1- ATM.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'ConsoleApplication1- ATM.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'ConsoleApplication1- ATM.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2cf8 has exited with code 0 (0x0).
+'ConsoleApplication1- ATM.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'ConsoleApplication1- ATM.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'ConsoleApplication1- ATM.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'ConsoleApplication1- ATM.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+The thread 0xa6c has exited with code 0 (0x0).
+The thread 0x47dc has exited with code 0 (0x0).
+The program '[21676] ConsoleApplication1- ATM.exe' has exited with code 0 (0x0).
