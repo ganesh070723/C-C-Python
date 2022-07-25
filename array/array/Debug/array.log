@@ -1,0 +1,5 @@
+﻿  array.cpp
+C:\Users\ganes\source\repos\array\array\array.cpp(14,11): warning C4101: 'divisor': unreferenced local variable
+C:\Users\ganes\source\repos\array\array\array.cpp(14,6): warning C4101: 'sum': unreferenced local variable
+C:\Users\ganes\source\repos\array\array\array.cpp(10,6): warning C4101: 'num': unreferenced local variable
+  array.vcxproj -> C:\Users\ganes\source\repos\array\Debug\array.exe
